@@ -12,7 +12,8 @@ The project consists of the following components:
 - **Two client SPAs**: `authentication` and `app`
 
 The project's backend uses AWS Cognito for user authentication and Supabase as the database (which runs on AWS with PostgreSQL). The database schema is provided in the project's files.
-(Added the DB-tables definition and the user's cred definition)
+
+#### (Added the DB-tables definition and the user's cred definition)####
 
 ### AWS Cognito
 
