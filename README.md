@@ -50,11 +50,11 @@ The project's backend uses AWS Cognito for user authentication and Supabase as t
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ofrilev/moveo_users-task_project_management.git
+   git clone https://github.com/ofrilev/moveo-projects.git
    ```
 2. **Navigate to the Moveo directory and run the server:**
    ```bash
-   cd moveo_users-task_project_management/server
+   cd moveo-projects/server
    bun i
    bun run dev
    ```
