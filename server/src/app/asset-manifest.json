@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.903f8fe3.js",
+    "static/media/report-logo.png": "/static/media/report-logo.28ea0efc51f1c586013e.png",
+    "static/media/logo.png": "/static/media/logo.5a7ebce8c239ea963d3f.png",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.903f8fe3.js.map": "/static/js/main.903f8fe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.903f8fe3.js"
+  ]
+}
